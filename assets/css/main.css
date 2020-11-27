@@ -1,0 +1,74 @@
+/* 
+#4747F5 morado
+#F56E47 naranja
+#EBB944 mostasa
+#DB4BDE  rosado
+*/
+body {
+	font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+.body {
+	padding: 60px 15px;
+}
+.titulo {
+	font-family: 'Sansita Swashed', cursive;
+}
+.main-nav a {
+	width: 33%;
+	display: inline-block;
+}
+.tamaño {
+	font-size: 2.5em;
+	margin-top: 0;
+}
+
+.main-header {
+	background-color: #f56e47;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 4px;
+}
+.nav-link {
+	color: white;
+
+	text-decoration: none;
+}
+.text-center {
+	text-align: center;
+}
+.red-text {
+	color: #e74c3c;
+}
+.main-container {
+	min-height: 100vh;
+}
+
+.product img {
+	width: 150px;
+}
+.product h3 {
+	font-size: 1.7em;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.card {
+	border-radius: 4px;
+	background-color: white;
+	box-shadow: 0 1px 3px rgb(0, 0, 0, 0.12), 0 1px 2px rgb(0, 0, 0, 0.24);
+}
+.threeD {
+	text-shadow: 1px 3px 0px #032345, 1px 13px 5px rgb(171, 168, 168);
+}
+.delay-1 {
+	animation-delay: 0.1s;
+}
+.delay-2 {
+	animation-delay: 0.2s;
+}
+.delay-3 {
+	animation-delay: 0.3s;
+}
